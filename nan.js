@@ -21,3 +21,6 @@ if(typeof(x) == "number" && x === x){
 
 console.log(x === x);
 
+let y = 0
+console.log(y === y);
+
