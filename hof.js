@@ -34,7 +34,6 @@ arr.sort();
  * [B, BA, J, BAA, BAAA, BB, BC, BD, BE, C, D] // if we arrange it according to dictionary 
  * 
  */
-
 console.log(arr);
 
 
