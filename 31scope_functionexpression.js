@@ -4,3 +4,6 @@ const f  = function fun(){
 
 f();
 fun();
+
+
+console.log("hey i am sumit");
