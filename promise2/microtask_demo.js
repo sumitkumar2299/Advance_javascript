@@ -3,12 +3,9 @@ function createPromise(){
         console.log()
     })
 }
-
-
 setTimeout(function process(){
     console.log("timer completed"); 
-},0); 
-
+},0);  
 
 let p = createPromise(); 
 p.then(function fulfillHandler1(value){
